@@ -7,7 +7,7 @@ Hi! I'm an Android developer with solid experience in building performant and we
 ### 🚀 What I'm working on:
 - ✨ Backend development using **Ktor** and **Kotlin HTML**
 - 🧱 Building a **backend for a swimming app** (FICR) to process and visualize personal data
-- 🧭 Crafting my **personal branding** to shift from Android Engineer to a more AI-oriented role
+- 🧭 Crafting my **personal branding** to shift from Android Engineer to a more Product Engineering AI-oriented role
 - 🧠 Studying AI with a practical and curious mindset
 - 📝 Writing on **Medium** and planning to publish regularly on **LinkedIn**
 
